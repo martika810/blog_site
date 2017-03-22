@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="git_concepts.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect3698"
+       is_visible="true"
+       steps="1"
+       threshold="0.00251534"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false"
+       simplifyindividualpaths="false"
+       simplifyJustCoalesce="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.63"
+     inkscape:cx="392.98668"
+     inkscape:cy="546.13817"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:measure-start="203.871,238.71"
+     inkscape:measure-end="0,0"
+     inkscape:window-width="1280"
+     inkscape:window-height="920"
+     inkscape:window-x="1280"
+     inkscape:window-y="138"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4643"
+       transform="translate(0.83994716,-31.91799)">
+      <path
+         id="rect4533"
+         transform="scale(0.26458333)"
+         d="m 168.38867,576.99219 c -20.91623,0 -37.7539,16.17731 -37.7539,36.27343 v 65.37305 c 0,2.30249 0.23137,4.55126 0.65429,6.73242 -0.42354,2.15003 -0.65429,4.36485 -0.65429,6.63672 v 158.12305 l -37.998051,70.31055 619.228511,2.70507 -59.10742,-70.31054 -1.44531,-0.008 c 0.0189,-0.47399 0.041,-0.94898 0.041,-1.42773 v -159.3924 c 0,-1.02535 -0.0557,-2.03444 -0.14454,-3.03711 1.0037,-3.27258 1.55079,-6.73891 1.55079,-10.33203 v -65.37109 c 0,-20.09613 -16.83962,-36.27344 -37.75586,-36.27344 z"
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.07599235;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="159.62027"
+         x="42.430634"
+         height="63.092854"
+         width="119.37225"
+         id="rect4544"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1" />
+      <rect
+         ry="2.5999999"
+         y="189.63039"
+         x="45.064514"
+         height="23.897848"
+         width="114.02688"
+         id="rect4567"
+         style="fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1" />
+      <rect
+         style="fill:#74bb00;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="rect4569"
+         width="114.02688"
+         height="23.897848"
+         x="45.235214"
+         y="162.31856"
+         ry="2.5999999" />
+    </g>
+    <g
+       id="g4647"
+       transform="translate(2.5198413,0.83994709)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3706"
+         d="M 100.15763,2.7468403 A 19.87715,22.59052 0 0 0 81.956481,16.324889 19.87715,22.59052 0 0 0 74.292974,14.555054 19.87715,22.59052 0 0 0 54.415988,37.145656 19.87715,22.59052 0 0 0 54.583,39.908642 19.87715,22.59052 0 0 0 37.173097,62.303201 a 19.87715,22.59052 0 0 0 19.87762,22.590604 19.87715,22.59052 0 0 0 6.074669,-1.091853 19.87715,22.59052 0 0 0 19.789349,20.602268 19.87715,22.59052 0 0 0 16.325911,-9.749765 19.87715,22.59052 0 0 0 17.680434,12.316705 19.87715,22.59052 0 0 0 19.77538,-20.504245 19.87715,22.59052 0 0 0 9.92103,3.04821 19.87715,22.59052 0 0 0 19.87698,-22.590607 19.87715,22.59052 0 0 0 -19.2953,-22.56746 19.87715,22.59052 0 0 0 1.5736,-8.75116 19.87715,22.59052 0 0 0 -19.87699,-22.590602 19.87715,22.59052 0 0 0 -10.4735,3.42259 19.87715,22.59052 0 0 0 -18.26465,-13.6910457 z"
+         style="fill:#2ab0fb;fill-opacity:1;stroke:none;stroke-width:0.33662471;stroke-opacity:1" />
+      <rect
+         ry="2.5999999"
+         y="44.357059"
+         x="49.131279"
+         height="23.897848"
+         width="98.067886"
+         id="rect4571"
+         style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.24537045;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="76.269035"
+       y="145.097"
+       id="text4586"><tspan
+         sodipodi:role="line"
+         id="tspan4584"
+         x="76.269035"
+         y="145.097"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.87777805px;line-height:47;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';fill:#000000;stroke-width:0.26458332">staging area</tspan></text>
+    <text
+       id="text4590"
+       y="60.06255"
+       x="54.418171"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.87777805px;line-height:47;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';fill:#000000;stroke-width:0.26458332"
+         y="60.06255"
+         x="54.418171"
+         id="tspan4588"
+         sodipodi:role="line">github.com(remote)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.87777805px;line-height:47;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';fill:#000000;stroke-width:0.26458332"
+         y="299.37637"
+         x="54.418171"
+         sodipodi:role="line"
+         id="tspan4592" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="65.830856"
+       y="173.00281"
+       id="text4575"><tspan
+         sodipodi:role="line"
+         id="tspan4573"
+         x="65.830856"
+         y="173.00281"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.87777805px;line-height:47;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';fill:#000000;stroke-width:0.26458332">working directory</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="change">
+    <g
+       id="g4657"
+       transform="translate(6.299603,-32.757937)">
+      <ellipse
+         ry="7.7695107"
+         rx="7.979497"
+         cy="264.45206"
+         cx="25.618383"
+         id="path4616"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1" />
+      <text
+         id="text4624"
+         y="267.07687"
+         x="36.432705"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.87777805px;line-height:47;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';fill:#000000;stroke-width:0.26458332"
+           y="267.07687"
+           x="36.432705"
+           id="tspan4622"
+           sodipodi:role="line">change</tspan></text>
+    </g>
+  </g>
+</svg>
