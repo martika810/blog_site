@@ -1,4 +1,26 @@
-#concepts{
+#concepts {
 	margin-top:35px;
 	margin-left:100px;
 }
+
+#steps .col-md-8{
+	margin-top:35px;
+	margin-left:150px;
+}
+
+.container h4{
+	color: #367C39;
+}
+
+.jumbotron, #steps .col-md-8{
+	background: #E2FBE3;
+}
+
+.jumbotron h1,.container h2,#steps h2{
+	color: #4CAF50;
+}
+
+#steps
+
+
+
