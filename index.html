@@ -3,7 +3,7 @@
 	<head>
     	<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-		<
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/css/materialize.min.css">
 		<link rel="stylesheet" href="css/main.css">
 		<!-- jQuery library -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -17,17 +17,17 @@
    		<div class="jumbotron text-center">
 			    <img src="images/git_icon.png" alt="how to learn git" width="125px" height="125px" class="circle"/>
 			    <h1 >Learning GIT</h1>
-			    <h5>GIT is a version control program which will help you modifying your code and keep trak of all changes</h5>
+			    <h5>GIT is a version control tool . This means it helps you controlling all changes done on a set of files. Additionally you can share those files</h5>
 			</div>
 		<div class="container">
 			<div class="row text-center">
 	    		<h2 class="header">How to create a github repository</h2>
 	    	</div>
 			<div id="concepts" class="row">
-	    		<div class="col-md-4">
-		    		<img src="images/git_concepts_mono.svg" class="media-object" style="width:350px" />
+	    		<div class="col s4">
+		    		<img src="images/git_concepts_mono.svg" class="media-object" style="width:250px" />
 	    		</div>
-	    		<div class="col-md-5" style="margin-top:50px">
+	    		<div class="col s8" style="margin-top:20px">
 	    			<h4>Introduction</h4>
 	    			<p> Let's say you have some code in a folder in you laptop and you would like to share it in github. What would you need to do?</p>
 	   				<p> Below are the steps you need to follow to create a git repository. This will allow you to share your code with 
@@ -37,26 +37,57 @@
 		    	</div>
 	    	</div>	
 		    <div id="steps">
-	    		<div class ="col-md-8 offset-md-2">
-	    			<h2 class="header"> <b>1.</b>Create a github user</h2>
-	    			<div class="card horizontal">
-	    				<div class="card-image">
-	    					<img src="images/git_icon.png" alt="how to learn git" width="75px" height="75px"/>
-	    				</div>
-	    				 <div class="card-stacked">
-       						 <div class="card-content">
-		    					<p>First you will get a github user. This is free. All you need do is browse to <p>github.com</p> and 
-	    						sign up</p>
-	    					</div>
-	    				</div>
-	    			</div>
-	    		</div>
+	    	
 	    			
 	    	</div>
 		
 		</div>
+		<div class ="jumbotron">
+			<div class="container">
+	    		<h4 class="header"> 1.Create a github user</h4>
+	    		<div class="card horizontal">
+	    			<div class="card-stacked">
+       					<div class="card-content">
+		    				<p>Browse to <b>github.com</b> and sign up. 
+		    						It is free, all you need to do is providing a user name, 
+		    						email and password</p>
+	    				</div>
+	    			</div>
+	    		</div>
+	    		<img src="images/create_user.png" style="margin-left:50px" width="600px"/>
+	    	</div>
+	    </div>	
+		<div class="container">
+	    	<h4 class="header"> 2.Create a new repository in github</h4>
+	    	<div class="card horizontal">
+	    		<div class="card-stacked">
+       				<div class="card-content">
+		    			<p>Hover on the profile icon and then click on 'New repository'. 
+		    					Then enter a name for the repo. In this case 'firstRepo'</p>
+	    			</div>
+	    		</div>
+	    	</div>
+	    	<img src="images/create_new_repo.png" style="margin-left:50px" width="600px"/>
+	    </div>
+	    <div class ="jumbotron">
+			<div class="container">
+	    		<h4 class="header"> 3.Convert your folder in a git repository</h4>
+	    		<div class="card horizontal">
+	    			<div class="card-stacked">
+       					<div class="card-content">
+		    				<p>From the terminal, move to the folder where the files you want to publish 
+		    				are <code> cd folder_path</code>and then execute <code>git init</code>  . This will convert your folder in a git repository
+		    				and generate the master branch</p>
+	    				</div>
+	    			</div>
+	    		</div>
+	    		<img src="images/create_user.png" style="margin-left:50px" width="600px"/>
+	    	</div>
+	    </div>		
+
       <!--Import jQuery before kube.js-->
+       <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/js/materialize.min.js"></script>
        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-  	  <script src="js/kube.js"></script>
+  	
     </body>
 </html>

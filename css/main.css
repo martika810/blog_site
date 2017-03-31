@@ -1,6 +1,5 @@
 #concepts {
 	margin-top:35px;
-	margin-left:100px;
 }
 
 #steps .col-md-8{
@@ -12,15 +11,26 @@
 	color: #367C39;
 }
 
-.jumbotron, #steps .col-md-8{
+.jumbotron{
 	background: #E2FBE3;
 }
+#steps .col h4{
+	padding:20px;
+}
+.jumbotron .container .card{
+	background: #FFFFFF;
+}
+.container .card{
+	// margin:20px;
+	background: #E2FBE3;
+}
+
 
 .jumbotron h1,.container h2,#steps h2{
 	color: #4CAF50;
 }
 
-#steps
+
 
 
 
